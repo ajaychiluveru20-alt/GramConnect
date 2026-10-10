@@ -1,0 +1,12 @@
+{
+  "name": "gramconnect-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "install:frontend": "npm --prefix frontend install",
+    "backend:run": "cd backend && mvn spring-boot:run",
+    "backend:jar": "cd backend && java -jar target/gramconnect-backend-0.0.1-SNAPSHOT.jar",
+    "backend:build": "cd backend && mvn clean package -DskipTests"
+  }
+}
