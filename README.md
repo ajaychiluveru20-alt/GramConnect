@@ -4,6 +4,18 @@
 
 ---
 
+## 🚀 1-Click Cloud Deployment
+
+Deploy the complete full-stack system (**PostgreSQL Database + Java Spring Boot Backend + React Frontend**) online with a single click:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ajaychiluveru20-alt/GramConnect)
+
+Or deploy the React Frontend to Vercel:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ajaychiluveru20-alt/GramConnect/tree/main/frontend&project-name=gramconnect-frontend&framework=vite)
+
+---
+
 ## Three Role-Based Portals & Demo Accounts
 
 GramConnect features three completely separated role-based portals with Spring Security + JWT authentication and BCrypt password encryption:
